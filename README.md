@@ -70,6 +70,12 @@ python manage.py tailwind install
 </head>
 ```
 
+### Give Setting Template Path
+
+```django
+BASE_DIR / "templates"
+```
+
 ### Start Tailwind
 
 ```bash
@@ -101,3 +107,4 @@ python manage.py createsuperuser
 ```text
 BASE_DIR / "templates"
 ```
+
