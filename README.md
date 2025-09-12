@@ -111,6 +111,7 @@ BASE_DIR / "templates"
 ## 7. prettier ignore File
 
 ```text
-<!---prettier-ignore--->
+<!-- prettier-ignore -->
 ```
+
 
