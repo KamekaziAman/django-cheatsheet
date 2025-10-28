@@ -114,4 +114,9 @@ BASE_DIR / "templates"
 <!-- prettier-ignore -->
 ```
 
+## 8. Create requirements.txt File
+
+```bash
+pip freeze > requirements.txt
+```
 
