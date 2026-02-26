@@ -114,9 +114,12 @@ BASE_DIR / "templates"
 <!-- prettier-ignore -->
 ```
 
-## 8. Create requirements.txt File
+## 8. Create and install requirements.txt File
 
 ```bash
 pip freeze > requirements.txt
 ```
 
+```bash
+pip install -r requirements.txt
+```
